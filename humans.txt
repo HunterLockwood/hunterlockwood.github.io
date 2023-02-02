@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dr. Hunter Thompson Lockwood -- Author -- @HunterLockwood@lingo.lol
+
+# THANKS
+
+    H5BP team -- https://github.com/h5bp/html5-boilerplate
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Normalize.css, Modernizr
