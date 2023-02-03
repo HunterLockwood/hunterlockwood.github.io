@@ -94,9 +94,6 @@ textarea {
 
 :root {
   --text-font: supria-sans, sans-serif;
-  --normal-fontweight: 300;
-  --header-fontweight: 400;
-  --bold-fontweight: 800;
   --header-font: quincy-cf, serif;
   }
 
@@ -143,7 +140,6 @@ textarea {
 html {
   background-color: var(--dark-backgrounder);
   font-family: var(--text-font);
-  font-weight: var(--normal-fontweight);
   }
 
 header,footer {
@@ -152,8 +148,8 @@ header,footer {
   margin: var(--big-margin-padding);
   padding: var(--margin-padding);
   font-family: var(--header-font);
-  font-weight: var(--header-fontweight);
   border: 4px var(--border-style);
+  max-width: fit-content;
   }
 
 section {
@@ -162,6 +158,7 @@ section {
   margin: var(--margin-padding);
   padding: var(--margin-padding);
   border: 4px var(--border-style);
+  max-width: fit-content;
   }
 
 ul.menu {
