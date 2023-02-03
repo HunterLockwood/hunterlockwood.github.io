@@ -152,7 +152,7 @@ header,footer {
   max-width: fit-content;
   }
 
-section {
+main {
   background-color: var(--dark-plain-body-textholder);
   color: var(--dark-plain-body-text);
   margin: var(--margin-padding);
