@@ -101,8 +101,8 @@ textarea {
    Variables
    -------------------------------------------------------------------------- */
 :root {
-  --margin-padding: 4vw;
-  --big-margin-padding: 8vw;
+  --margin-padding: 2vw;
+  --big-margin-padding: 4vw;
   --border-style: outset;
 
   /*purple over green*/
@@ -140,44 +140,68 @@ textarea {
 html {
   background-color: var(--dark-backgrounder);
   font-family: var(--text-font);
+  margin: var(--margin-padding);
+  padding: var(--big-margin-padding);
   }
 
 header,footer {
   background-color: var(--dark-header-textholder);
   color: var(--dark-header-text);
-  margin: var(--big-margin-padding);
-  padding: var(--margin-padding);
   font-family: var(--header-font);
   border: 4px var(--border-style);
-  max-width: fit-content;
+  flex-grow: 1;
   }
 
 main {
   background-color: var(--dark-plain-body-textholder);
   color: var(--dark-plain-body-text);
-  margin: var(--margin-padding);
-  padding: var(--margin-padding);
   border: 4px var(--border-style);
-  max-width: fit-content;
+  flex-grow: 1;
+  }
+
+figure {
+  overflow: clip;
   }
 
 ul.menu {
   list-style-type: none;
   color: var(--dark-plain-body-text);
-  width: max-content;
+  font-family: var(--header-font);
+  flex-grow: 1;
   display: flex;
   flex-direction: row;
   }
 
 li {
-  padding: 4% 4%;
-  border-left: 4px double var(--dark-colorful-body-textholder);
-  background-color: var(--dark-backgrounder);
+  border: 4px outset var(--dark-colorful-body-textholder);
+  background-color: var(--dark-colorful-body-text);
+  }
+
+li:hover::before {
+  content: "→"
   }
 
 /* --------------------------------------------------------------------------
    Page layout
    -------------------------------------------------------------------------- */
+
+
+/* notes toward a grid*/
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+children of body:
+nav
+  ul
+    li
+header
+  TODO: Finalize header structure
+main
+  figure
+    img
+    caption
+  section
+footer
+  TODO: Finalize footer structure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 
 
