@@ -5,9 +5,9 @@
   --header-text: #7E678B;
   --header-textholder: #C0D8B6;
   /*purple over beige*/
-  --plain-body-textholder: #D0D098;
   --plain-body-text: #654A74;
-  /*purple over green*/
+  --plain-body-textholder: #D0D098;
+    /*purple over green*/
   --colorful-body-text: #654A74;
   --colorful-body-textholder: #C0D8B6;
   }
