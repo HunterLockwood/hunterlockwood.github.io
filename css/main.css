@@ -7,6 +7,8 @@
  * Kroc Camen, and the H5BP dev community and team.
  */
 
+@import url("https://use.typekit.net/edr6ubl.css");
+
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -84,8 +86,104 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   +++++++++++++++Hunter's Additions++++
    ========================================================================== */
+/* --------------------------------------------------------------------------
+    Set up Adobe fonts
+   -------------------------------------------------------------------------- */
+
+:root {
+  --text-font: supria-sans, sans-serif;
+  --normal-fontweight: 300;
+  --header-fontweight: 400;
+  --bold-fontweight: 800;
+  --header-font: quincy-cf, serif;
+  }
+
+/* --------------------------------------------------------------------------
+   Variables
+   -------------------------------------------------------------------------- */
+:root {
+  --margin-padding: 4vw;
+  --big-margin-padding: 8vw;
+  --border-style: outset;
+
+  /*purple over green*/
+  --dark-colorful-body-text: #654A74;
+  --dark-colorful-body-textholder: #C0D8B6;
+  /*beige over purple*/
+  --dark-plain-body-text: #D0D098;
+  --dark-plain-body-textholder: #654A74;
+  /*green over purple BIG ONLY*/
+  --dark-header-text: #C0D8B6;
+  --dark-header-textholder: #7E678B;
+
+  /*purple over beige*/
+  --light-plain-body-textholder: #D0D098;
+  --light-plain-body-text: #654A74;
+
+  /*green over purple*/
+  --light-colorful-body-textholder: #654A74;
+  --light-colorful-body-text: #C0D8B6;
+
+  /*purple over green BIG ONLY*/
+  --light-header-textholder: #C0D8B6;
+  --light-header-text: #7E678B;
+
+  /*background colors*/
+  --light-backgrounder: #FBF0D4;
+  --dark-backgrounder: #50567D;
+  }
+
+
+/* --------------------------------------------------------------------------
+  Basic Colors &c.
+ -------------------------------------------------------------------------- */
+
+html {
+  background-color: var(--dark-backgrounder);
+  font-family: var(--text-font);
+  font-weight: var(--normal-fontweight);
+  }
+
+header,footer {
+  background-color: var(--dark-header-textholder);
+  color: var(--dark-header-text);
+  margin: var(--big-margin-padding);
+  padding: var(--margin-padding);
+  font-family: var(--header-font);
+  font-weight: var(--header-fontweight);
+  border: 4px var(--border-style);
+  }
+
+section {
+  background-color: var(--dark-plain-body-textholder);
+  color: var(--dark-plain-body-text);
+  margin: var(--margin-padding);
+  padding: var(--margin-padding);
+  border: 4px var(--border-style);
+  }
+
+ul.menu {
+  list-style-type: none;
+  color: var(--dark-plain-body-text);
+  width: max-content;
+  display: flex;
+  flex-direction: row;
+  }
+
+li {
+  padding: 4% 4%;
+  border-left: 4px double var(--dark-colorful-body-textholder);
+  background-color: var(--dark-backgrounder);
+  }
+
+/* --------------------------------------------------------------------------
+   Page layout
+   -------------------------------------------------------------------------- */
+
+
+
 
 /* ==========================================================================
    Helper classes
