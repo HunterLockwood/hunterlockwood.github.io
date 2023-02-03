@@ -124,6 +124,8 @@ html {
 
 body {
   display: grid;
+  min-height: 100vh;
+  min-height: 100dvh;
   grid-template-rows:
     auto
     1fr
@@ -197,7 +199,6 @@ a {
   color: inherit;
   font-variant: petite-caps;
   }
-
 
 /* --------------------------------------------------------------------------
    Page layout
