@@ -101,35 +101,12 @@ textarea {
    Variables
    -------------------------------------------------------------------------- */
 :root {
+  color-scheme: light dark;
+  }
+:root {
   --margin-padding: 2vw;
   --big-margin-padding: 4vw;
   --border-style: outset;
-
-  /*purple over green*/
-  --dark-colorful-body-text: #654A74;
-  --dark-colorful-body-textholder: #C0D8B6;
-  /*beige over purple*/
-  --dark-plain-body-text: #D0D098;
-  --dark-plain-body-textholder: #654A74;
-  /*green over purple BIG ONLY*/
-  --dark-header-text: #C0D8B6;
-  --dark-header-textholder: #7E678B;
-
-  /*purple over beige*/
-  --light-plain-body-textholder: #D0D098;
-  --light-plain-body-text: #654A74;
-
-  /*green over purple*/
-  --light-colorful-body-textholder: #654A74;
-  --light-colorful-body-text: #C0D8B6;
-
-  /*purple over green BIG ONLY*/
-  --light-header-textholder: #C0D8B6;
-  --light-header-text: #7E678B;
-
-  /*background colors*/
-  --light-backgrounder: #FBF0D4;
-  --dark-backgrounder: #50567D;
   }
 
 
@@ -138,23 +115,23 @@ textarea {
  -------------------------------------------------------------------------- */
 
 html {
-  background-color: var(--dark-backgrounder);
+  background-color: var(--backgrounder);
   font-family: var(--text-font);
   margin: var(--margin-padding);
   padding: var(--big-margin-padding);
   }
 
 header,footer {
-  background-color: var(--dark-header-textholder);
-  color: var(--dark-header-text);
+  background-color: var(--header-textholder);
+  color: var(--header-text);
   font-family: var(--header-font);
   border: 4px var(--border-style);
   flex-grow: 1;
   }
 
 main {
-  background-color: var(--dark-plain-body-textholder);
-  color: var(--dark-plain-body-text);
+  background-color: var(--plain-body-textholder);
+  color: var(--plain-body-text);
   border: 4px var(--border-style);
   flex-grow: 1;
   }
@@ -165,7 +142,7 @@ figure {
 
 ul.menu {
   list-style-type: none;
-  color: var(--dark-plain-body-text);
+  color: var(--plain-body-text);
   font-family: var(--header-font);
   flex-grow: 1;
   display: flex;
@@ -173,8 +150,8 @@ ul.menu {
   }
 
 li {
-  border: 4px outset var(--dark-colorful-body-textholder);
-  background-color: var(--dark-colorful-body-text);
+  border: 4px outset var(--header-textholder);
+  background-color: var(--colorful-body-textholder);
   }
 
 li:hover::before {
@@ -186,7 +163,7 @@ li:hover::before {
    -------------------------------------------------------------------------- */
 
 
-/* notes toward a grid*/
+/* notes toward a layout*/
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 children of body:
 nav
