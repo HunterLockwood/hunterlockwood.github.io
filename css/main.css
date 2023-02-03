@@ -107,6 +107,7 @@ textarea {
   --margin-padding: 2vw;
   --big-margin-padding: 4vw;
   --border-style: outset;
+  --base-border-radius: 45px;
   }
 
 
@@ -117,7 +118,16 @@ textarea {
 html {
   background-color: var(--backgrounder);
   font-family: var(--text-font);
-  padding: 0 var(--big-margin-padding) var(--big-margin-padding) var(--big-margin-padding);
+  padding: var(--margin-padding);
+  overflow: scroll;
+  }
+
+body {
+  display: grid;
+  grid-template-rows:
+    auto
+    1fr
+    auto;
   }
 
 header,footer {
@@ -126,13 +136,17 @@ header,footer {
   font-family: var(--header-font);
   border: 4px var(--border-style);
   flex-grow: 1;
+  border-radius: var(--base-border-radius);
   }
 
 main {
   background-color: var(--plain-body-textholder);
   color: var(--plain-body-text);
   border: 4px var(--border-style);
+  border-radius: calc(var(--base-border-radius) - 25px) calc(var(--base-border-radius) + 25px);
   flex-grow: 1;
+  padding: 0 var(--margin-padding) 0 var(--margin-padding);
+  margin: var(--margin-padding) 0 var(--margin-padding) 0;
   }
 
 main,header,footer,section {
@@ -142,6 +156,7 @@ main,header,footer,section {
 figure img {
   overflow: clip;
   border: 4px var(--border-style);
+  border-radius: calc(var(--base-border-radius) + 25px);
   }
 
 /* --------------------------------------------------------------------------
@@ -153,24 +168,35 @@ ul.menu {
   list-style-type: none;
   color: var(--plain-body-text);
   font-family: var(--header-font);
-  flex-grow: 1;
   display: flex;
   flex-direction: row;
+  padding: 0 var(--margin-padding) 0 var(--margin-padding)
   }
 
 li {
   border: 4px outset var(--header-textholder);
   background-color: var(--colorful-body-textholder);
+  border-radius: calc(var(--base-border-radius) - 35px);
+  }
+
+li:hover {
+/*  from w3schools! */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
 li:hover::before {
   content: "→"
   }
 
-li:nth-of-type(1) {
+nav li:nth-of-type(1) {
   margin-right: auto;
   }
 
+a {
+  text-decoration: none;
+  color: inherit;
+  font-variant: petite-caps;
+  }
 
 
 /* --------------------------------------------------------------------------
@@ -181,10 +207,11 @@ li:nth-of-type(1) {
 /* notes toward a layout*/
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 children of body:
-nav
+
+header
+  nav
   ul
     li
-header
   TODO: Finalize header structure
 main
   figure
