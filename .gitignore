@@ -4,3 +4,5 @@
 node_modules
 dist
 .cache
+academic-website/
+.DS_Store
