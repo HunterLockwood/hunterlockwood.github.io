@@ -45,8 +45,12 @@
   `prefers-color-scheme`, the media  query is unknown and the files
   are downloaded with `lowest` priority (but above I already force `highest` priority for my default light experience).-->
 
-  <link rel="stylesheet" href="css/dark.css" media="(prefers-color-scheme: dark)" />
-  <link rel="stylesheet" href="css/light.css" media="(prefers-color-scheme: light)"/>
+  <link rel="stylesheet"
+        href="css/dark.css"
+        media="(prefers-color-scheme: dark)"/>
+  <link rel="stylesheet"
+        href="css/light.css"
+        media="(prefers-color-scheme: light)"/>
 
   <!-- The main stylesheet -->
   <link rel="stylesheet"
@@ -61,10 +65,18 @@
 <header>
   <nav>
     <ul class="menu">
-      <li><a href="index.html">🏠 Home</a></li>
-      <li><a href="research.html">📚 Research</a></li>
-      <li><a href="curriculum-vitae.html">✍️ CV</a></li>
-      <li><a href="personal.html">🧙‍♂️Personal</a></li>
+      <li>
+        <a href="index.html">🏠 Home</a>
+      </li>
+      <li>
+        <a href="research.html">📚 Research</a>
+      </li>
+      <li>
+        <a href="curriculum-vitae.html">✍️ CV</a>
+      </li>
+      <li>
+        <a href="personal.html">🧙‍♂️Personal</a>
+      </li>
     </ul>
   </nav>
   <h1>Dr. Hunter Thompson Lockwood</h1>
@@ -74,26 +86,45 @@
 </header>
 
 <main>
+  <!-- TODO: Add different gnome-image sizes -->
   <figure class="selfie-image">
     <img src="img/splashes/welcome_gnome-sm.jpg"
          alt="A small statue of a gnome, lying supine, arms behind his head, which rests on a small pile of straw. Text under him reads 'WELCOME'."
-         width="528" height="396"
-         loading="lazy" decoding="async">
+         width="528"
+         height="396"
+         loading="lazy"
+         decoding="async">
     <figcaption><em>Pictured: Hunter in repose.</em></figcaption>
   </figure>
   <section class="content">
-   <p> In his spare time, Hunter plays and thinks about tabletop roleplaying games,
-    especially what
-    has
-    been called the NSR (New School Revolution) or the <a
-    href="https://www.technicalgrimoire.com/david/2019/06/sworddream">
-    SWORDDREAM</a>.</p>
+    <h2>"New School" Tabletop Gaming: SWORDDREAM</h2>
+    <p>During the initial waves of covid-19, I discovered (alongside many others) a love of
+      tabletop roleplaying games. Initially drawn to relatively complex & complete
+      simulations like
+      <a href="https://2e.aonprd.com">Pathfinder 2e</a>
+      , my preferences have
+      shifted away from corporate-owned games, to
+      <a href="https://itch.io/">indepenent games</a>
+      with a more
+      <a href="http://monstersandmanuals.blogspot.com/2021/09/on-artpunk.html">artpunk aesthetic</a>and
+      <a href="https://www.technicalgrimoire.com/david/2019/06/sworddream">do-it-yourself attitude</a>. In this tradition of play, the focus of play tends to be more on on interaction, imagination, and creative problem solving. Less emphasis tends to be places on memorizing complex rules (who has time for that??) and
+      <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/RPGsEqualCombat">meaningless violence</a>.
+    </p>
+  </section>
+  <section class="content">
+    <h2>Dog</h2>
+    <p>I have a big dog. His name is Max.</p>
+    <!-- TODO: Add max image at different sizes -->
+    <p>Max is good. I love Max.</p>
   </section>
 </main>
 
 <footer>
   <h3>Designed & contented by Hunter.</h3>
-  <h3>Updated <time datetime="2023-02-03">February 2023</time>.</h3>
+  <h3>Updated
+    <time datetime="2023-02-03">February 2023</time>
+    .
+  </h3>
 </footer>
 
 
