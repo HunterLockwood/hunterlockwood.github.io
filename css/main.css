@@ -152,6 +152,10 @@ header,footer {
   border-radius: var(--base-border-radius);
   }
 
+h1,h2,h3,h4 {
+  font-family: var(--header-font);
+  }
+
 main {
   background-color: var(--plain-body-textholder);
   color: var(--plain-body-text);
@@ -170,6 +174,10 @@ figure img {
   overflow: clip;
   border: var(--base-border-size) var(--border-style) var(--plain-body-text);
   border-radius: calc(var(--base-border-radius) + 25px);
+  }
+
+figure {
+  float: left;
   }
 
 /* --------------------------------------------------------------------------
@@ -211,10 +219,20 @@ nav a {
   font-size: inherit;
   }
 
+
+/* --------------------------------------------------------------------------
+    Assorted Peculiarities
+   -------------------------------------------------------------------------- */
+
+
 a {
   color: inherit;
   font-size: 1.2rem;
   font-variant: petite-caps;
+  }
+
+header h1, header h2, footer h3 {
+  margin: auto;
   }
 
 
