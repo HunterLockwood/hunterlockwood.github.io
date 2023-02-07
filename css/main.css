@@ -181,11 +181,10 @@ figure {
   }
 
 /* --------------------------------------------------------------------------
-    Navigation
+    Navigation & Listy things
    -------------------------------------------------------------------------- */
 
-
-ul.menu {
+header ul {
   list-style-type: none;
   color: var(--plain-body-text);
   font-family: var(--header-font);
@@ -194,18 +193,18 @@ ul.menu {
   padding: 0 var(--margin-padding) 0 var(--margin-padding)
   }
 
-li {
+header li {
   border: var(--base-border-size) var(--border-style) var(--header-textholder);
   background-color: var(--colorful-body-textholder);
   border-radius: calc(var(--base-border-radius) - 35px);
   }
 
-li:hover {
+header li:hover {
 /*  from w3schools! */
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
-li:hover::before {
+header li:hover::before {
   content: "→"
   }
 
@@ -219,11 +218,21 @@ nav a {
   font-size: inherit;
   }
 
+main ul {
+  list-style-type: square;
+  }
+
+section.cv {
+  text-align: left;
+}
+
+section.cv h2 {
+  text-align: center;
+}
 
 /* --------------------------------------------------------------------------
     Assorted Peculiarities
    -------------------------------------------------------------------------- */
-
 
 a {
   color: inherit;
