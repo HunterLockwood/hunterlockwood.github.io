@@ -1,3 +1,5 @@
 # Personal Website Repo
 
-These are the files for my personal website. The skeleton was automatically generated, thanks to the good people at [H5BP](https://github.com/h5bp/html5-boilerplate/).
+These are the files for my personal website.
+
+This is `the-scientist` branch, because I am working on changing it over to [`yellow`](https://datenstrom.se/yellow/) (get it?).
