@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Research - Hunter Lockwood&#039;s Website</title>
+<meta charset="utf-8" />
+<meta name="description" content="My focus for many years has been the contribute to the documentation &amp; reclamation of Algonquian languages, especially Miami-Illinois &amp;…" />
+<meta name="author" content="Dr. Hunter Thompson Lockwood" />
+<meta name="generator" content="Datenstrom Yellow" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="alternate" type="application/rss+xml" href="/feed/page:feed.xml" title="Hunter Lockwood&#039;s Website" />
+<meta property="og:url" content="https://hunterlockwood.github.io/about/research" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Research" />
+<meta property="og:site_name" content="Hunter Lockwood&#039;s Website" />
+<meta property="og:description" content="My focus for many years has been the contribute to the documentation &amp; reclamation of Algonquian languages, especially Miami-Illinois &amp;…" />
+<meta property="og:image" content="https://hunterlockwood.github.io/media/images/pano-miamiok.jpg" />
+<meta property="og:image:alt" content="Miami Nation Dance Grounds, Miami, Oklahoma" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/loveland.css" />
+<link rel="icon" type="image/png" href="/assets/loveland.png" />
+</head>
+<body>
+<div class="page layout-default">
+<div class="header" role="banner">
+<div class="sitename">
+<h1><a href="/"><i class="sitename-logo"></i>Hunter Lockwood&#039;s Website</a></h1>
+</div>
+<div class="sitename-banner"></div>
+<div class="navigation" role="navigation" aria-label="Main">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/wiki/">Florilegium</a></li>
+<li><a class="active" aria-current="page" href="/about/">About</a></li>
+<li><a href="/contact/">Contact</a></li>
+</ul>
+</div>
+<div class="navigation-banner"></div>
+</div>
+<div class="content">
+<div class="sidebar" role="complementary">
+</div>
+<div class="main" role="main">
+<h1>My Research Topics</h1>
+<p>My focus for many years has been the <strong>contribute to the documentation &amp; reclamation of Algonquian languages, especially Miami-Illinois &amp; Ojibwe-Potawatomi</strong>.</p>
+
+<p>As a part of the <strong>Language Research Office at <a href="https://miamioh.edu/myaamia-center/index.html">The Myaamia Center</a></strong>, I work in Oxford, Ohio, to support the <strong>Miami Tribe of Oklahoma</strong> in their efforts to revitalize their language. Recently, much of the public-facing scholarship I do can be considered <em>digital philology</em>, in that I work with textual sources.</p>
+
+<p>Less visibly, I work closely with the other Offices at the Center, supporting the <a href="https://aacimotaatiiyankwi.org/education/programming/">pedagogical &amp; educational efforts</a> of the Miami Tribe of Oklahoma and <a href="https://miamioh.edu/myaamia-center/research/digital-resources/index.html">the software development team</a>, who is responsible for the <a href="https://ilaatawaakani.org">Indigenous Languages Digital Archive</a> (ILDA) and other digital resources.</p>
+
+<h2 id="algonquian-language-documentation-for-language-reclamation">Algonquian Language Documentation for Language Reclamation</h2>
+
+<p>My research interests have never been limited to a single subfield or theoretical approach. In fact, that's what drew me to language research in the first place; anytime you're ever learning about anything, there's language involved<a href="https://www.etymonline.com/word/ineffable">...more or less.</a></p>
+
+<p>In graduate school, I was influenced heavily by a quote that I can never find the source of; the way I always recite it is this, and it's how I try to live:</p>
+
+<div class="notice1">
+<p>Language documentation is too valuable to waste on linguists alone.</p>
+</div>
+
+<h3 id="things-i-tend-to-think-about"><em>Things I tend to think about</em></h3>
+
+<p>I have written on and consulted about a variety of topics in linguistics. The list below ought to give an idea of the range of my interests and what I've been thinking about recently.</p>
+
+<div class="notice2">
+<div>
+<p><strong>kihkintoolilo</strong> 'take note!'</p>
+
+<p><em>I work for myaamiaki people.</em> If you're myaamia and you have a question about something,  <a href="/contact">get in touch</a> and I'll see what I can do!</p>
+</div>
+</div>
+
+<ul>
+<li>🗣️<em><strong>Phonology</strong></em>: The study of sounds as a system; syllables &amp; prosody; phonotactics; historical and comparative phonology.</li>
+<li>🧱<em><strong>Morphology</strong></em>: Word structure; morphophonology, morphosyntax, historical and comparative morphology with <a href="https://nisinoon.net/">Monica Macaulay</a>.</li>
+<li>🕸️<em><strong>Lexical Semantics</strong></em>: Word meaning, how words are related to each other &amp; the world; metaphors and metonymy; semantic change over time.</li>
+<li>️👥<em><strong>Sociocultural linguistics</strong></em>: Identity; ideologies, attitudes and beliefs about language; phonoaesthetics &amp; iconicity; language variation.</li>
+<li>🤖<em><strong>Computational linguistics</strong></em>: Software supporting language communities; natural language processing; ethics &amp; best practices; <a href="https://en.wikipedia.org/wiki/Answer_set_programming">answer set programming</a> with <a href="https://miamioh.edu/profiles/cec/daniela-inclezan.html">Daniela Inclezan</a>.</li>
+<li>🌎<em><strong>Linguistic Anthropology</strong></em>: Knowledge systems &amp; indigenous epistemologies, e.g.: 🧮 <em>ethnomathematics</em> (number systems &amp; measurement); 🌝 <em>ethnoastronomy</em>, (cosmology, constellations &amp; calendrics); 🫎 <em>ethnobiology</em> (classification and management of plants, animals &amp; ecosystems); 🗺️ <em>geolinguistics</em> (placenames &amp; landscapes).</li>
+</ul>
+
+<h2 id="miami-illinois-language-reclamation">Miami-Illinois Language Reclamation</h2>
+
+<p>At any given moment, I have several short- and long-term research projects in progress focusing on various aspects of what scholars call the
+<strong>Miami-Illinois language</strong> — Miami-Illinois is an academic cover term for the languages spoken by Miami, Wea, Peoria, Kaskaskia, and other related groups of people in the southern Great Lakes region.</p>
+
+<p>Today, most myaamia speakers refer to their language as <a href="/wiki/myaamiaataweenki">myaamiaataweenki</a>.</p>
+
+<p><img src="/media/images/pano-miamiok.jpg" width="2937" height="1097" alt="Miami Nation Dance Grounds, Miami, Oklahoma" title="Miami Nation Dance Grounds, Miami, Oklahoma" class="rounded" /></p>
+
+<h3 id="ilda-https-ilaatawaakani-org"><a href="https://ilaatawaakani.org"><em>ILDA</em></a></h3>
+
+<p>Language projects often resemble what <a href="https://jan.ucc.nau.edu/~jar/ILR/">Keren Rice (2009) called "the two solitudes"</a>. More recently, I learned about <a href="https://en.wikipedia.org/wiki/Conway%27s_law">Conway's Law</a>, which is the idea that organizations end up designing systems that reflect their own communication patterns.</p>
+
+<p>The <a href="http://ilaatawaakani.org/">ILDA</a> platform unifies the analytical and pedagogical functions by recognizing them as distinct; it was built from the ground up with and for both user groups in mind. Data from the primary sources and secondary sources flow together to present information that is useful to different user groups.</p>
+
+<p>It was originally designed specifically for the Myaamia Center's use case, e.g. easily making available annotations from manuscripts like <a href="https://mc.miamioh.edu/ilda-myaamia/documents/19">Jean-Antoine Robert LeBoullenger's</a> 18th century Miami-Illinois dictionary to today's team of speaker-learner-teachers</p>
+
+<div class="notice3">
+<div>
+<div>
+<p>The ILDA platform unifies the analytical and pedagogical functions by recognizing them as distinct.</p>
+</div>
+</div>
+</div>
+
+<p>ILDA now can handle audio/video files marked up by <a href="https://archive.mpi.nl/tla/elan">ELAN</a> and is regularly used by Native American tribal language programs across the country for precisely this purpose.</p>
+
+<hr />
+
+<h2 id="nisinoon-https-nisinoon-net"><a href="https://nisinoon.net/">Nisinoon</a></h2>
+
+<p>Algonquian languages are known for complex words with many meaningful parts. Linguists typically divide these into three primary <a href="/wiki/word-guts">components</a>: an initial, a medial, and a final.</p>
+
+<p><a href="https://nisinoon.net/"><strong>Nisinoon</strong></a> is <a href="https://ojibwe.lib.umn.edu/main-entry/nisinoon-vii">an Ojibwe word</a> that means <em>they are three; there are three of them</em></p>
+
+<p>As part of an NSF-Funded grant project, my former dissertation advisor <a href="https://en.wikipedia.org/wiki/Monica_Macaulay">Dr. Monica Macaulay</a> and I are working with <a href="https://danielhieber.info/">Dr. Daniel Hieber</a> to create <a href="https://nisinoon.net">nisinoon</a>, a tool to explore the structures of words in Algonquian languages.</p>
+
+<p>Along the way, we created other resources like a <a href="https://nisinoon.net/bibliography">bibliography of Algonquian morphology</a>.</p>
+
+<h2 id="ojibwe-potawatomi">Ojibwe-Potawatomi</h2>
+
+<p>Ojibwe-Potawatomi is an academic cover term for a large group of varieties spoken on the northern Great Lakes region. For various analytical and ideological reasons, many of these languages either are or were sometimes known as "dialects of Ojibwe". Such appellations are imprecise and outdated.</p>
+
+<p>My dissertation was a descriptive grammar of Potawatomi, marking the culmination of almost a decade of work with and for Anishinaabe people from different communities across the Three Fires but especially the Forest County Potawatomi Community.</p>
+
+<p>It was designed to accompany the Forest County Potawatomi Dictionary <a href="https://www.neh.gov/sites/default/files/2018-06/potawatomi_documentation_lexical_database_and_dictionary.pdf">(<code>grant pdf</code>)</a>, which I also helped to compile, and contains a few stories that were collected as part of the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1263888">corpus project</a>.</p>
+</div>
+</div>
+<div class="footer" role="contentinfo">
+<div class="siteinfo">
+<hr />
+
+<p><em>Hunter used <a href="https://datenstrom.se/yellow/help/"><code>yellow.php</code></a> to make this.</em></p>
+</div>
+<div class="siteinfo-banner"></div>
+</div>
+</div>
+</body>
+</html>

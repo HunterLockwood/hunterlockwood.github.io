@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Our Sphere - Hunter Lockwood&#039;s Website</title>
+<meta charset="utf-8" />
+<meta name="description" content="What is Our Sphere? Read with the pinched vowels &amp; mildly condescending tone of a northern academic Approaching the Document &amp; Setting Fantasy…" />
+<meta name="author" content="Dr. Hunter Thompson Lockwood" />
+<meta name="generator" content="Datenstrom Yellow" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="alternate" type="application/rss+xml" href="/feed/page:feed.xml" title="Hunter Lockwood&#039;s Website" />
+<meta property="og:url" content="https://hunterlockwood.github.io/wiki/our-sphere_intro" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Our Sphere" />
+<meta property="og:site_name" content="Hunter Lockwood&#039;s Website" />
+<meta property="og:description" content="What is Our Sphere? Read with the pinched vowels &amp; mildly condescending tone of a northern academic Approaching the Document &amp; Setting Fantasy…" />
+<meta property="og:image" content="https://hunterlockwood.github.io/assets/loveland.png" />
+<meta property="og:image:alt" content="Our Sphere" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/loveland.css" />
+<link rel="icon" type="image/png" href="/assets/loveland.png" />
+</head>
+<body>
+<div class="page layout-wiki">
+<div class="header" role="banner">
+<div class="sitename">
+<h1><a href="/"><i class="sitename-logo"></i>Hunter Lockwood&#039;s Website</a></h1>
+</div>
+<div class="sitename-banner"></div>
+<div class="navigation" role="navigation" aria-label="Main">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a class="active" aria-current="page" href="/wiki/">Florilegium</a></li>
+<li><a href="/about/">About</a></li>
+<li><a href="/contact/">Contact</a></li>
+</ul>
+</div>
+<div class="navigation-banner"></div>
+</div>
+<div class="content">
+<div class="main" role="main">
+<div class="entry tag-ludemics tag-sphere">
+<div class="entry-title"><h1>Our Sphere</h1></div>
+<div class="entry-meta"><p>Last updated on 2024-06-01</p></div>
+<div class="entry-content"><h2 id="what-is-our-sphere">What is <em>Our Sphere</em>?</h2>
+
+<p><em>Read with the pinched vowels &amp; mildly condescending tone of a northern academic</em></p>
+
+<hr />
+
+<h3 id="approaching-the-document-setting"><strong><em>Approaching</em> the Document &amp; Setting</strong></h3>
+
+<p>Fantasy settings traditionally confine written records to an era that has no equivalent to our <em>hypertext</em> -- which so interweaves our everyday existence that we retreat to the realm of fantasy to imagine life without it. And yet magickal activities are so frequently represented as a discursive behavior, and even more specifically as some sort of literacy or textuality.</p>
+
+<p>So on the surface, and as may be obvious given the name, this document represents an in-universe atlas of the <em>Our Sphere</em> setting, written for alchemical displays of shimmering light by well-known magickal scholars.</p>
+
+<p>You will note that some of the authors disagree with each other or highlight points in particular debates; consider this an invitation for you to disagree or reinterpret anything as you see fit. This document does not produce a singular canon, delivered in an abstract and depersonalized voice; it is a scaffold of ideas and perspectives on them for you to integrate into any suitably magitechnological setting.</p>
+
+<p>Ultimately, however, this is a game manual. It contains all the information needed to play <em>Our Sphere</em> according to rules and procedures that are transparently adapted from Chris McDowall's <em>Into the Odd</em>, <em>Electric Bastionland</em> &amp; <em>Mythic Bastionland</em>, as well as Yochai Gal's <em>Cairn</em> and other games...in <a href="/wiki/diegetic-rules">the chapter on comparative ludology</a>.</p>
+
+<h3 id="attributions-reflections-on-legality"><strong><em>Attributions</em> &amp; Reflections on Legality</strong></h3>
+
+<h4 id="art-imagery"><em>Art &amp; Imagery</em></h4>
+
+<p>The twin sunrise image I use as a logo is a heavily edited derivative of an image from the NASA Goddard Space Flight Center.</p>
+
+<p>Maps I made in Dungeondraft or Wonderdraft, using assets created by <a href="https://www.patreon.com/cg2a">CG2A</a> &amp; <a href="https://www.forgotten-adventures.net/product/map-making/assets/dungeondraft-integration/">Forgotten Adventures</a>.</p>
+
+<h4 id="ludemics"><em>Ludemics</em></h4>
+
+<p>Text &amp; concepts from Chris McDowall's foundational works are licensed under the <a href="https://www.bastionland.com"><em>Mark of the Odd v0.4</em></a>.</p>
+
+<p><em>Cairn</em> by Yochai Gal is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> which requires that all derivative products be made available under the same license. <strong>Therefore, <em>Our Sphere</em> is available under CC-BY-SA 4.0.</strong></p>
+
+<p>Timekeeping rules were adapted from Paizo's <em>Pathfinder 2e</em> (the first edition of that book, written before Hasbro-Wizards of the Coast's legal team forced the release of a revised version).</p>
+
+<p>Inventory rules were influenced by Luka Rejec's <a href="https://www.wizardthieffighter.com"><em>Ultraviolet Grasslands</em></a></p>
+
+<div class="notice2">
+<div>
+<p><strong><em>Transformative works of pastiche, satire &amp; commentary are protected speech.</em></strong></p>
+
+<p><strong><em>Rules, procedures &amp; game mechanics (ludemes) cannot be protected under copyright.</em></strong></p>
+</div>
+</div>
+</div>
+<div class="entry-tags">
+<p>Tags 🔖 <a href="/wiki/tag:ludemics/">ludemics</a>, <a href="/wiki/tag:sphere/">sphere</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer" role="contentinfo">
+<div class="siteinfo">
+<hr />
+
+<p><em>Hunter used <a href="https://datenstrom.se/yellow/help/"><code>yellow.php</code></a> to make this.</em></p>
+</div>
+<div class="siteinfo-banner"></div>
+</div>
+</div>
+</body>
+</html>
