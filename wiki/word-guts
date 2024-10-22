@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Word Guts, Morphology &amp; the Internal Structure of Words - Hunter Lockwood&#039;s Website</title>
+<meta charset="utf-8" />
+<meta name="description" content="Backstory When I was helping put together the Forest County Potawatomi Dictionary, we spent a lot of time talking about language, and Lindsay Marean,…" />
+<meta name="author" content="Dr. Hunter Thompson Lockwood" />
+<meta name="generator" content="Datenstrom Yellow" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="alternate" type="application/rss+xml" href="/feed/page:feed.xml" title="Hunter Lockwood&#039;s Website" />
+<meta property="og:url" content="https://hunterlockwood.github.io/wiki/word-guts" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Word Guts, Morphology &amp; the Internal Structure of Words" />
+<meta property="og:site_name" content="Hunter Lockwood&#039;s Website" />
+<meta property="og:description" content="Backstory When I was helping put together the Forest County Potawatomi Dictionary, we spent a lot of time talking about language, and Lindsay Marean,…" />
+<meta property="og:image" content="https://hunterlockwood.github.io/assets/loveland.png" />
+<meta property="og:image:alt" content="Word Guts, Morphology &amp; the Internal Structure of Words" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/loveland.css" />
+<link rel="icon" type="image/png" href="/assets/loveland.png" />
+</head>
+<body>
+<div class="page layout-wiki">
+<div class="header" role="banner">
+<div class="sitename">
+<h1><a href="/"><i class="sitename-logo"></i>Hunter Lockwood&#039;s Website</a></h1>
+</div>
+<div class="sitename-banner"></div>
+<div class="navigation" role="navigation" aria-label="Main">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a class="active" aria-current="page" href="/wiki/">Florilegium</a></li>
+<li><a href="/about/">About</a></li>
+<li><a href="/contact/">Contact</a></li>
+</ul>
+</div>
+<div class="navigation-banner"></div>
+</div>
+<div class="content">
+<div class="main" role="main">
+<div class="entry tag-algonquiana">
+<div class="entry-title"><h1>Word Guts</h1></div>
+<div class="entry-meta"><p>Last updated on 2024-06-01</p></div>
+<div class="entry-content"><h2 id="backstory">Backstory</h2>
+
+<p>When I was helping put together the <a href="/about/research">Forest County Potawatomi Dictionary</a>, we spent a lot of time <a href="https://en.wikipedia.org/wiki/Metalinguistics">talking about language</a>, and Lindsay Marean, a Potawatomi woman who at the time was a linguist and is now also a programmer, shared a story with me about using the term <em>verb guts</em> with the elders and others when trying to talk about what linguists call <a href="https://en.wikipedia.org/wiki/Morphological_derivation"><em>derivational morphology</em></a>, the study of meaningful sub-components of words.</p>
+
+<p>I adapted this, here and elsewhere, extending it to <strong>word guts</strong>, for the simple reason that nouns also have guts!</p>
+
+<h3 id="why-word-guts">Why <em>Word Guts</em>?</h3>
+
+<p>Linguists sometimes talk about or display language in ways that community members find objectionable. Unusable language will be presented alongside impenetrable theoretical jargon.</p>
+
+<p>People who study Ojibwe have been talking about this for a long time; that's why Rand Valentine's <em>Nishnaabemwin Reference Grammar</em>, for instance, displays example sentences without "cutting up" words.</p>
+
+<p>But linguists like me still need to study these building blocks of words in order to understand the language better. The solution I try to follow is to be sure to present full, usable language alongside segmented, unpronounceable pieces (in my memory, credit for this idea goes to Wes Leonard, but I can't find a reference to it, offhand...).</p>
+
+<h2 id="what-are-word-guts">What are <em>Word Guts</em>?</h2>
+
+<p>Living things like humans are made up of internal organs; when separated from each other, neither of us can survive. We may look simple, on the outside, but internally, we are complex.</p>
+
+<p>Living words are like this, too! Words are made up of smaller parts that, when separated from each other, don't make any sense &amp; can't survive.</p>
+
+<div class="notice1">
+<p>A <em>language</em> is a <em>type of knowledge</em>.</p>
+</div>
+
+<p>But instead of internal organs, linguists who study Algonquian languages like myaamiaataweenki and Bodwéwadmimwen sometimes say that words are made up of <em>components</em>. Components are the smallest parts of a word that do or mean something. Together, they make up the stable body of the word, which I call the <em>base</em> or the <em>stem</em>.</p>
+
+<p>A language is a type of knowledge. Fluent speakers know and recognize thousands of different components of words! They use that knowledge to combine words in novel ways and to understand words they've never heard before.</p>
+</div>
+<div class="entry-tags">
+<p>Tags 🔖 <a href="/wiki/tag:algonquiana/">algonquiana</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer" role="contentinfo">
+<div class="siteinfo">
+<hr />
+
+<p><em>Hunter used <a href="https://datenstrom.se/yellow/help/"><code>yellow.php</code></a> to make this.</em></p>
+</div>
+<div class="siteinfo-banner"></div>
+</div>
+</div>
+</body>
+</html>
