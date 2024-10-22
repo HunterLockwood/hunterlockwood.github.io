@@ -21,7 +21,7 @@
 <div class="notice3">
 <div>
 <div>
-<p>🤔 If you want to know more about what I do, check out my <a href="/about/research">research</a> page, or check out <a href="/about/selected-writings">a selection of what I have written</a>.</p>
+<p>🤔 If you want to know more about what I do, check out my <a href="/about/research.html">research</a> page, or check out <a href="/about/selected-writings.html">a selection of what I have written</a>.</p>
 </div>
 </div>
 </div>]]></content:encoded>
@@ -35,7 +35,7 @@
 <description>My focus for many years has been to contribute to the documentation &amp; reclamation of Algonquian languages, especially Miami-Illinois &amp;…</description>
 <content:encoded><![CDATA[<p>My focus for many years has been to <strong>contribute to the documentation &amp; reclamation of Algonquian languages, especially Miami-Illinois &amp; Ojibwe-Potawatomi</strong>.</p>
 
-<p>As a part of the <strong>Language Research Office at <a href="https://miamioh.edu/myaamia-center/index.html">The Myaamia Center</a></strong>, I work in Oxford, Ohio, to support the <strong>Miami Tribe of Oklahoma</strong> in their efforts to revitalize their language. Recently, much of the public-facing scholarship I do can be considered <em>digital philology</em>, in that I work with textual sources. <a href="/about/selected-writings">Check out some of my work</a> for more information.</p>
+<p>As a part of the <strong>Language Research Office at <a href="https://miamioh.edu/myaamia-center/index.html">The Myaamia Center</a></strong>, I work in Oxford, Ohio, to support the <strong>Miami Tribe of Oklahoma</strong> in their efforts to revitalize their language. Recently, much of the public-facing scholarship I do can be considered <em>digital philology</em>, in that I work with textual sources. <a href="/about/selected-writings.html">Check out some of my work</a> for more information.</p>
 
 <p>Less visibly, I work closely with the other Offices at the Center, supporting the <a href="https://aacimotaatiiyankwi.org/education/programming/">pedagogical &amp; educational efforts</a> of the Miami Tribe of Oklahoma and <a href="https://miamioh.edu/myaamia-center/research/digital-resources/index.html">the software development team</a>, who is responsible for the <a href="https://ilaatawaakani.org">Indigenous Languages Digital Archive</a> (ILDA) and other digital resources.</p>
 
@@ -101,7 +101,7 @@
 
 <h2 id="nisinoon-https-nisinoon-net"><a href="https://nisinoon.net/">Nisinoon</a></h2>
 
-<p>Algonquian languages are known for complex words with many meaningful parts. Linguists typically divide these into three primary <a href="/wiki/word-guts">components</a>: an initial, a medial, and a final.</p>
+<p>Algonquian languages are known for complex words with many meaningful parts. Linguists typically divide these into three primary <a href="/wiki/word-guts.html">components</a>: an initial, a medial, and a final.</p>
 
 <p><a href="https://nisinoon.net/"><strong>Nisinoon</strong></a> is <a href="https://ojibwe.lib.umn.edu/main-entry/nisinoon-vii">an Ojibwe word</a> that means <em>they are three; there are three of them</em></p>
 
@@ -131,12 +131,12 @@
 <div class="notice1">
 <p>Today, most speakers of the language call it <a href="https://mc.miamioh.edu/ilda-myaamia/dictionary/entries/6648">myaamiaataweenki</a>.</p>
 
-<p>If you'd like to see what I've written about the language, check out <a href="/about/selected-writings">some of my writings</a>!</p>
+<p>If you'd like to see what I've written about the language, check out <a href="/about/selected-writings.html">some of my writings</a>!</p>
 </div>
 
 <h3 id="ceekiši-iilaataweenkia-https-mc-miamioh-edu-ilda-myaamia-phrases-443757-all-kinds-of-languages"><a href="https://mc.miamioh.edu/ilda-myaamia/phrases/443757">ceekiši iilaataweenkia</a> <em>'all kinds of languages'</em></h3>
 
-<p>What are the <a href="/wiki/word-guts">components (or "word guts")</a> of the word <em>myaaamiaataweenki</em>?</p>
+<p>What are the <a href="/wiki/word-guts.html">components (or "word guts")</a> of the word <em>myaaamiaataweenki</em>?</p>
 
 <p>Obviously, <strong>myaamia</strong> is the name of the people. But how does the other part mean 'language'?</p>
 
@@ -311,7 +311,7 @@
 
 <p>My name is <strong>Dr. Hunter Thompson Lockwood</strong> <code>(he/him)</code>, but most people just call me Hunter. I am a non-Native person; I took that picture a few miles from where I grew up, on land ceded by Anishinaabe people in <a href="https://en.wikipedia.org/wiki/Treaty_of_Washington_(1836)">The 1836 Treaty of Washington</a>.</p>
 
-<p>I am a linguist who works to support Native American people and communities through language <a href="/about/research">research</a>.</p>
+<p>I am a linguist who works to support Native American people and communities through language <a href="/about/research.html">research</a>.</p>
 
 <p>Check out the <a href="/feed/"><code>/feed/</code></a> to see what's new around here, or use a <a href="https://www.rssboard.org/rss-specification"><code>Really Simple Syndication</code></a> Feed Reader to follow all of your favorite internet websites using <a href="/feed/page:feed.xml">RSS links like this</a>.</p>]]></content:encoded>
 </item>
@@ -334,7 +334,7 @@
 <ul>
 <li><a class="tag-myaamia tag-algonquiana" href="/wiki/myaamiaataweenki">myaamiaataweenki</a></li>
 <li><a class="tag-algonquiana tag-myaamia" href="/wiki/obviative-circle">Who is in the Circle? Proximate and Obviative</a></li>
-<li><a class="tag-algonquiana" href="/wiki/word-guts">Word Guts, Morphology &amp; the Internal Structure of Words</a></li>
+<li><a class="tag-algonquiana" href="/wiki/word-guts.html">Word Guts, Morphology &amp; the Internal Structure of Words</a></li>
 <li><a class="tag-rhizome" href="/wiki/rhizomes-replantings">🍄Rhizomes &amp; Replantings🪴</a></li>
 </ul>
 </div>
@@ -508,11 +508,11 @@
 <description>Backstory When I was helping put together the Forest County Potawatomi Dictionary, we spent a lot of time talking about language, and Lindsay Marean,…</description>
 <content:encoded><![CDATA[<h2 id="backstory">Backstory</h2>
 
-<p>When I was helping put together the <a href="/about/research">Forest County Potawatomi Dictionary</a>, we spent a lot of time <a href="https://en.wikipedia.org/wiki/Metalinguistics">talking about language</a>, and Lindsay Marean, a Potawatomi woman who at the time was a linguist and is now also a programmer, shared a story with me about using the term <em>verb guts</em> with the elders and others when trying to talk about what linguists call <a href="https://en.wikipedia.org/wiki/Morphological_derivation"><em>derivational morphology</em></a>, the study of meaningful sub-components of words.</p>
+<p>When I was helping put together the <a href="/about/research.html">Forest County Potawatomi Dictionary</a>, we spent a lot of time <a href="https://en.wikipedia.org/wiki/Metalinguistics">talking about language</a>, and Lindsay Marean, a Potawatomi woman who at the time was a linguist and is now also a programmer, shared a story with me about using the term <em>verb guts</em> with the elders and others when trying to talk about what linguists call <a href="https://en.wikipedia.org/wiki/Morphological_derivation"><em>derivational morphology</em></a>, the study of meaningful sub-components of words.</p>
 
 <p>I adapted this, here and elsewhere, extending it to <strong>word guts</strong>, for the simple reason that nouns also have guts!</p>
 
-<h3 id="why-word-guts">Why <em>Word Guts</em>?</h3>
+<h3 id="why-word-guts.html">Why <em>Word Guts</em>?</h3>
 
 <p>Linguists sometimes talk about or display language in ways that community members find objectionable. Unusable language will be presented alongside impenetrable theoretical jargon.</p>
 
@@ -520,7 +520,7 @@
 
 <p>But linguists like me still need to study these building blocks of words in order to understand the language better. The solution I try to follow is to be sure to present full, usable language alongside segmented, unpronounceable pieces (in my memory, credit for this idea goes to Wes Leonard, but I can't find a reference to it, offhand...).</p>
 
-<h2 id="what-are-word-guts">What are <em>Word Guts</em>?</h2>
+<h2 id="what-are-word-guts.html">What are <em>Word Guts</em>?</h2>
 
 <p>Living things like humans are made up of internal organs; when separated from each other, neither of us can survive. We may look simple, on the outside, but internally, we are complex.</p>
 
